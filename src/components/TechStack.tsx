@@ -7,13 +7,13 @@ export const TechStack = () => {
   const stack = [
     {
       title: "React",
-      src: "/images/logos/react.png",
+      src: "/images/logos/React.png",
 
       className: "h-10 w-14",
     },
     {
       title: "Typescript",
-      src: "/images/logos/Typescript.png",
+      src: "/images/logos/TypeScript.png",
 
       className: "h-10 w-14",
     },
