@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import walletGen1 from "public/images/wallet gen/img1.png";
 import walletGen2 from "public/images/wallet gen/img2.png";
 import walletGen3 from "public/images/wallet gen/img3.png";
