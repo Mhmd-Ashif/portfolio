@@ -33,7 +33,7 @@ export const Sidebar = () => {
             </div>
             <div onClick={() => isMobile() && setOpen(false)}>
               <Badge
-                href="https://drive.google.com/file/d/1w1iI8vX8_EqXTHTbxI-zCNWJgAQfYyW1/view"
+                href="https://drive.google.com/file/d/1kH46NDun-mzuiKo8TaMlcWE2wCgSe3Mr/view?usp=sharing"
                 text="Resume"
               />
             </div>
